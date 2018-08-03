@@ -2,11 +2,11 @@ from __future__ import division, print_function, absolute_import
 """
 Author: PinAxe
 
-Project: Auto Encoder Example.
-Build a 7 layers auto-encoder with TensorFlow Convolutional layers
-and train it on noised MNIST set. Supposed to do a serious denoising.
-Also it does save and restore of the model and visualisation.
-The work is derived from source code by Manish Chablani see References.
+Project: Convolutional Auto Encoder Example.
+A 7 layers auto-encoder with TensorFlow Convolutional layers
+trains on noised MNIST set. Supposed to do a serious denoising.
+Also it saves and automaticaly restores the model and does visualisation.
+The work is derived from a source code by Manish Chablani. See References.
 
 References:
     https://towardsdatascience.com/autoencoders-introduction-and-implementation-3f40483b0a85
