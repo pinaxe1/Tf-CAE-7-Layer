@@ -4,7 +4,7 @@ Author: PinAxe
 
 Project: Convolutional Auto Encoder Example.
 A 7 layers auto-encoder with TensorFlow Convolutional layers
-trains on noised MNIST set. Supposed to do a serious denoising.
+trains on noised MNIST set. Supposed to do some serious denoising.
 Also it saves and automaticaly restores the model and does visualisation.
 The work is derived from a source code by Manish Chablani. See References.
 
